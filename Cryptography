@@ -1,0 +1,18 @@
+The numbers:
+Each number corresponds to the alphabet when numbers are written from A to Z.
+
+Points -100:
+Use rot13 decoder online to get the flag.
+picoCTF{not_too_bad_of_a_problem}
+
+Easy1:
+The table gives the flag when taken realtive to the given key.
+
+Caesar:
+Open the file and on doing so, a flag comes. An online decoder can be used for finding the flag from the Caesar cipher.
+
+Flags:
+The flags correspond to their respective letters. Searching the google will help.
+
+Mr Worldwide:
+Each coardinate represents a place. While finding the coardinates, the first letter of each particular place be placed first.
